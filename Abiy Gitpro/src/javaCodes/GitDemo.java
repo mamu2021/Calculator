@@ -28,6 +28,7 @@ public class GitDemo {
 	
 	public static void main(String[] args) {
 	calculateForme(40,30 ,"+");	
+	System.out.println("All working good!");
 
 	}
 
